@@ -1,0 +1,1 @@
+export const Footer: React.FC = () => <footer className="bg-gray-800 w-full text-white text-center p-4">Developed and designed with ❤️ Henriette Riis Steinbach © {new Date().getFullYear()} All Rights Reserved.</footer>;
